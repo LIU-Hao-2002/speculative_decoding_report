@@ -1,0 +1,4 @@
+Pass@1:0.10975609756097561mean_speed:9.541154772708332
+mean_accepted_counts:91.60975609756098
+mean_target_sample_counts:11.884146341463415
+mean_resample_counts:97.5548780487805
